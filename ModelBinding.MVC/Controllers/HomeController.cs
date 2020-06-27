@@ -5,9 +5,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using ModelBindingAndFormValidation.Models;
+using ModelBinding.MVC.Models;
 
-namespace ModelBindingAndFormValidation.Controllers
+namespace ModelBinding.MVC.Controllers
 {
     public class HomeController : Controller
     {

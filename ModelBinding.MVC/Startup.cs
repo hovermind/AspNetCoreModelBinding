@@ -9,7 +9,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
-namespace ModelBindingAndFormValidation
+namespace ModelBinding.MVC
 {
     public class Startup
     {
@@ -50,7 +50,7 @@ namespace ModelBindingAndFormValidation
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{controller=Foo}/{action=Create}");
             });
         }
     }

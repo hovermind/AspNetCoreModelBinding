@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelBindingAndFormValidation", "ModelBindingAndFormValidation\ModelBindingAndFormValidation.csproj", "{90ED4A66-5CAA-44F1-811C-868287A7A6C5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelBinding.MVC", "ModelBinding.MVC\ModelBinding.MVC.csproj", "{093D7207-79F8-44AA-8C5A-22B150ACDCA0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{90ED4A66-5CAA-44F1-811C-868287A7A6C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{90ED4A66-5CAA-44F1-811C-868287A7A6C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{90ED4A66-5CAA-44F1-811C-868287A7A6C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{90ED4A66-5CAA-44F1-811C-868287A7A6C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{093D7207-79F8-44AA-8C5A-22B150ACDCA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{093D7207-79F8-44AA-8C5A-22B150ACDCA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{093D7207-79F8-44AA-8C5A-22B150ACDCA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{093D7207-79F8-44AA-8C5A-22B150ACDCA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
